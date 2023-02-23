@@ -1,2 +1,6 @@
 # Neural-Networks-for-Handwritten-Digit-Recognition-Multiclass
- This is a simple neural network capable of multiclass classification. I used ReLU and Softmax activation functions for my multiclass classification.
+I created a neural network to perform handwritten digit recognition for the digits 0-9.
+
+For the tensorflow model implementation, I used Keras Sequential model and Dense Layer with a ReLU activation to construct a three layer network. 
+
+A Softmax activation function was then applied to the predictions gotten from the model to perform probability estimation for the digits
